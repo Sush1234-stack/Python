@@ -1,0 +1,11 @@
+#storing the item name, price, store name, and quantity
+itemname = "tomato"
+price = 12
+storename = "supermarket"
+quantity = 4
+
+#maths operation
+#line_total = price + int(quantity)
+line_total = price / int(quantity)
+#show the result
+print(line_total)
